@@ -1,0 +1,543 @@
+##############################
+SAN JOSE:
+Femenino: 543747
+Masculino: 517628
+Total: 1061375
+##############################
+ALAJUELA:
+Femenino: 284956
+Masculino: 289545
+Total: 574501
+##############################
+GUANACASTE:
+Femenino: 109067
+Masculino: 111798
+Total: 220865
+##############################
+PUNTARENAS:
+Femenino: 138978
+Masculino: 147512
+Total: 286490
+##############################
+CONSULADO:
+Femenino: 4938
+Masculino: 5326
+Total: 10264
+##############################
+LIMON:
+Femenino: 119606
+Masculino: 128654
+Total: 248260
+##############################
+HEREDIA:
+Femenino: 155126
+Masculino: 150634
+Total: 305760
+##############################
+CARTAGO:
+Femenino: 179732
+Masculino: 178840
+Total: 358572
+
+
+
+##############################
+SAN JOSE:
+----- DESAMPARADOS: -----
+	Femenino: 77320
+	Masculino: 74466
+	Total: 151786
+----- CENTRAL: -----
+	Femenino: 118759
+	Masculino: 110014
+	Total: 228773
+----- SANTA ANA: -----
+	Femenino: 15711
+	Masculino: 15178
+	Total: 30889
+----- MONTES DE OCA: -----
+	Femenino: 22021
+	Masculino: 19500
+	Total: 41521
+----- LEON CORTES CASTRO: -----
+	Femenino: 4249
+	Masculino: 4445
+	Total: 8694
+----- ESCAZU: -----
+	Femenino: 22109
+	Masculino: 21184
+	Total: 43293
+----- VAZQUEZ DE CORONADO: -----
+	Femenino: 25570
+	Masculino: 23964
+	Total: 49534
+----- GOICOECHEA: -----
+	Femenino: 45740
+	Masculino: 41930
+	Total: 87670
+----- MORA: -----
+	Femenino: 9622
+	Masculino: 9490
+	Total: 19112
+----- PURISCAL: -----
+	Femenino: 13091
+	Masculino: 13279
+	Total: 26370
+----- DOTA: -----
+	Femenino: 2574
+	Masculino: 2608
+	Total: 5182
+----- CURRIDABAT: -----
+	Femenino: 23982
+	Masculino: 22257
+	Total: 46239
+----- ALAJUELITA: -----
+	Femenino: 23982
+	Masculino: 23537
+	Total: 47519
+----- TARRAZU: -----
+	Femenino: 5633
+	Masculino: 5790
+	Total: 11423
+----- PEREZ ZELEDON: -----
+	Femenino: 52148
+	Masculino: 53031
+	Total: 105179
+----- ACOSTA: -----
+	Femenino: 7488
+	Masculino: 8018
+	Total: 15506
+----- TIBAS: -----
+	Femenino: 29428
+	Masculino: 26216
+	Total: 55644
+----- TURRUBARES: -----
+	Femenino: 2103
+	Masculino: 2294
+	Total: 4397
+----- MORAVIA: -----
+	Femenino: 22052
+	Masculino: 20316
+	Total: 42368
+----- ASERRI: -----
+	Femenino: 20165
+	Masculino: 20111
+	Total: 40276
+##############################
+ALAJUELA:
+----- LOS CHILES: -----
+	Femenino: 4820
+	Masculino: 5589
+	Total: 10409
+----- PALMARES: -----
+	Femenino: 13634
+	Masculino: 13395
+	Total: 27029
+----- SAN MATEO: -----
+	Femenino: 1941
+	Masculino: 2104
+	Total: 4045
+----- SAN CARLOS: -----
+	Femenino: 47481
+	Masculino: 49579
+	Total: 97060
+----- NARANJO: -----
+	Femenino: 15016
+	Masculino: 14769
+	Total: 29785
+----- SAN RAMON: -----
+	Femenino: 28991
+	Masculino: 28834
+	Total: 57825
+----- ZARCERO: -----
+	Femenino: 4199
+	Masculino: 4224
+	Total: 8423
+----- ATENAS: -----
+	Femenino: 9397
+	Masculino: 9461
+	Total: 18858
+----- OROTINA: -----
+	Femenino: 7031
+	Masculino: 6991
+	Total: 14022
+----- VALVERDE VEGA: -----
+	Femenino: 6858
+	Masculino: 6782
+	Total: 13640
+----- UPALA: -----
+	Femenino: 11732
+	Masculino: 12766
+	Total: 24498
+----- GUATUSO: -----
+	Femenino: 4730
+	Masculino: 5139
+	Total: 9869
+----- CENTRAL: -----
+	Femenino: 91874
+	Masculino: 92652
+	Total: 184526
+----- POAS: -----
+	Femenino: 9756
+	Masculino: 9899
+	Total: 19655
+----- GRECIA: -----
+	Femenino: 27496
+	Masculino: 27361
+	Total: 54857
+##############################
+GUANACASTE:
+----- LA CRUZ: -----
+	Femenino: 5295
+	Masculino: 5495
+	Total: 10790
+----- HOJANCHA: -----
+	Femenino: 2647
+	Masculino: 2807
+	Total: 5454
+----- SANTA CRUZ: -----
+	Femenino: 18442
+	Masculino: 19296
+	Total: 37738
+----- BAGACES: -----
+	Femenino: 6110
+	Masculino: 6300
+	Total: 12410
+----- LIBERIA: -----
+	Femenino: 20423
+	Masculino: 20515
+	Total: 40938
+----- NANDAYURE: -----
+	Femenino: 3851
+	Masculino: 4136
+	Total: 7987
+----- ABANGARES: -----
+	Femenino: 6286
+	Masculino: 6495
+	Total: 12781
+----- TILARAN: -----
+	Femenino: 7032
+	Masculino: 7051
+	Total: 14083
+----- CARRILLO: -----
+	Femenino: 10885
+	Masculino: 11265
+	Total: 22150
+----- CA�AS: -----
+	Femenino: 9135
+	Masculino: 9260
+	Total: 18395
+----- NICOYA: -----
+	Femenino: 18961
+	Masculino: 19178
+	Total: 38139
+##############################
+PUNTARENAS:
+----- AGUIRRE: -----
+	Femenino: 8428
+	Masculino: 9530
+	Total: 17958
+----- CORREDORES: -----
+	Femenino: 15419
+	Masculino: 15613
+	Total: 31032
+----- OSA: -----
+	Femenino: 9410
+	Masculino: 10625
+	Total: 20035
+----- COTO BRUS: -----
+	Femenino: 13657
+	Masculino: 13941
+	Total: 27598
+----- PARRITA: -----
+	Femenino: 5226
+	Masculino: 5577
+	Total: 10803
+----- BUENOS AIRES: -----
+	Femenino: 14233
+	Masculino: 15671
+	Total: 29904
+----- ESPARZA: -----
+	Femenino: 10334
+	Masculino: 10192
+	Total: 20526
+----- CENTRAL: -----
+	Femenino: 39893
+	Masculino: 42110
+	Total: 82003
+----- MONTES DE ORO: -----
+	Femenino: 4790
+	Masculino: 4793
+	Total: 9583
+----- GOLFITO: -----
+	Femenino: 12975
+	Masculino: 14226
+	Total: 27201
+----- GARABITO: -----
+	Femenino: 4613
+	Masculino: 5234
+	Total: 9847
+##############################
+CONSULADO:
+----- BOLIVIA: -----
+	Femenino: 10
+	Masculino: 5
+	Total: 15
+----- CUBA: -----
+	Femenino: 9
+	Masculino: 16
+	Total: 25
+----- ALEMANIA: -----
+	Femenino: 45
+	Masculino: 55
+	Total: 100
+----- CHILE: -----
+	Femenino: 36
+	Masculino: 38
+	Total: 74
+----- JAPON: -----
+	Femenino: 15
+	Masculino: 7
+	Total: 22
+----- NICARAGUA: -----
+	Femenino: 45
+	Masculino: 44
+	Total: 89
+----- VENEZUELA: -----
+	Femenino: 74
+	Masculino: 56
+	Total: 130
+----- PERU: -----
+	Femenino: 25
+	Masculino: 27
+	Total: 52
+----- ARGENTINA: -----
+	Femenino: 36
+	Masculino: 42
+	Total: 78
+----- BELICE: -----
+	Femenino: 3
+	Masculino: 0
+	Total: 3
+----- FRANCIA: -----
+	Femenino: 93
+	Masculino: 58
+	Total: 151
+----- MEXICO: -----
+	Femenino: 183
+	Masculino: 136
+	Total: 319
+----- GUATEMALA: -----
+	Femenino: 93
+	Masculino: 67
+	Total: 160
+----- SINGAPUR: -----
+	Femenino: 6
+	Masculino: 8
+	Total: 14
+----- CANADA: -----
+	Femenino: 163
+	Masculino: 202
+	Total: 365
+----- INDIA: -----
+	Femenino: 1
+	Masculino: 2
+	Total: 3
+----- CHINA: -----
+	Femenino: 25
+	Masculino: 21
+	Total: 46
+----- COLOMBIA: -----
+	Femenino: 57
+	Masculino: 47
+	Total: 104
+----- TRINIDAD Y TOBAGO: -----
+	Femenino: 2
+	Masculino: 2
+	Total: 4
+----- REPUBLICA DOMINICANA: -----
+	Femenino: 21
+	Masculino: 31
+	Total: 52
+----- RUSIA: -----
+	Femenino: 6
+	Masculino: 10
+	Total: 16
+----- QATAR: -----
+	Femenino: 9
+	Masculino: 6
+	Total: 15
+----- SUIZA: -----
+	Femenino: 72
+	Masculino: 31
+	Total: 103
+----- ESPA�A: -----
+	Femenino: 127
+	Masculino: 151
+	Total: 278
+----- ECUADOR: -----
+	Femenino: 16
+	Masculino: 17
+	Total: 33
+----- ESTADOS UNIDOS: -----
+	Femenino: 3347
+	Masculino: 3877
+	Total: 7224
+----- AUSTRALIA: -----
+	Femenino: 8
+	Masculino: 16
+	Total: 24
+----- COREA: -----
+	Femenino: 1
+	Masculino: 1
+	Total: 2
+----- PANAMA: -----
+	Femenino: 78
+	Masculino: 81
+	Total: 159
+----- BELGICA: -----
+	Femenino: 16
+	Masculino: 21
+	Total: 37
+----- EL SALVADOR: -----
+	Femenino: 73
+	Masculino: 55
+	Total: 128
+----- BRASIL: -----
+	Femenino: 5
+	Masculino: 13
+	Total: 18
+----- URUGUAY: -----
+	Femenino: 4
+	Masculino: 6
+	Total: 10
+----- AUSTRIA: -----
+	Femenino: 14
+	Masculino: 16
+	Total: 30
+----- PAISES BAJOS: -----
+	Femenino: 35
+	Masculino: 20
+	Total: 55
+----- HONDURAS: -----
+	Femenino: 59
+	Masculino: 66
+	Total: 125
+----- ISRAEL: -----
+	Femenino: 25
+	Masculino: 13
+	Total: 38
+----- NORUEGA: -----
+	Femenino: 14
+	Masculino: 11
+	Total: 25
+----- REINO UNIDO: -----
+	Femenino: 36
+	Masculino: 30
+	Total: 66
+----- ITALIA: -----
+	Femenino: 51
+	Masculino: 21
+	Total: 72
+##############################
+CARTAGO:
+----- ALVARADO: -----
+	Femenino: 4686
+	Masculino: 4769
+	Total: 9455
+----- EL GUARCO: -----
+	Femenino: 14849
+	Masculino: 15277
+	Total: 30126
+----- JIMENEZ: -----
+	Femenino: 5451
+	Masculino: 5824
+	Total: 11275
+----- OREAMUNO: -----
+	Femenino: 16953
+	Masculino: 16317
+	Total: 33270
+----- TURRIALBA: -----
+	Femenino: 27092
+	Masculino: 27394
+	Total: 54486
+----- LA UNION: -----
+	Femenino: 32293
+	Masculino: 31893
+	Total: 64186
+----- CENTRAL: -----
+	Femenino: 56890
+	Masculino: 56017
+	Total: 112907
+----- PARAISO: -----
+	Femenino: 21518
+	Masculino: 21349
+	Total: 42867
+##############################
+LIMON:
+----- MATINA: -----
+	Femenino: 9423
+	Masculino: 10377
+	Total: 19800
+----- POCOCI: -----
+	Femenino: 39550
+	Masculino: 43279
+	Total: 82829
+----- CENTRAL: -----
+	Femenino: 32088
+	Masculino: 32645
+	Total: 64733
+----- TALAMANCA: -----
+	Femenino: 8254
+	Masculino: 9238
+	Total: 17492
+----- GUACIMO: -----
+	Femenino: 12623
+	Masculino: 13502
+	Total: 26125
+----- SIQUIRRES: -----
+	Femenino: 17668
+	Masculino: 19613
+	Total: 37281
+##############################
+HEREDIA:
+----- BARVA: -----
+	Femenino: 15233
+	Masculino: 14662
+	Total: 29895
+----- BELEN: -----
+	Femenino: 8719
+	Masculino: 8491
+	Total: 17210
+----- SAN PABLO: -----
+	Femenino: 10302
+	Masculino: 9707
+	Total: 20009
+----- FLORES: -----
+	Femenino: 7655
+	Masculino: 7354
+	Total: 15009
+----- SARAPIQUI: -----
+	Femenino: 13916
+	Masculino: 15710
+	Total: 29626
+----- SAN ISIDRO: -----
+	Femenino: 7212
+	Masculino: 7212
+	Total: 14424
+----- SANTO DOMINGO: -----
+	Femenino: 16486
+	Masculino: 16037
+	Total: 32523
+----- SAN RAFAEL: -----
+	Femenino: 16108
+	Masculino: 15908
+	Total: 32016
+----- CENTRAL: -----
+	Femenino: 47105
+	Masculino: 43330
+	Total: 90435
+----- SANTA BARBARA: -----
+	Femenino: 12390
+	Masculino: 12223
+	Total: 24613
